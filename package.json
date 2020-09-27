@@ -1,0 +1,23 @@
+{
+    "name": "scriptable-web-framework",
+    "version": "0.1.0",
+    "description": "",
+    "main": "./src/main",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://Mr-Quiz@github.com/Mr-Quiz/scriptable-webview-framework.git"
+    },
+    "keywords": [
+        "scriptable",
+        "framework",
+        "javascript"
+    ],
+    "author": "Maciej Zaręba <mzareba1997@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Mr-Quiz/scriptable-webview-framework/issues"
+    },
+    "homepage": "https://github.com/Mr-Quiz/scriptable-webview-framework#readme",
+}
